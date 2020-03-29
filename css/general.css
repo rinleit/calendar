@@ -1,0 +1,46 @@
+.btn-nav {
+    font-size: large;
+    font-weight: normal;
+}
+
+.btn-nav a {
+    color: #363636;
+    text-decoration: none !important;
+}
+
+.btn-nav:hover {
+    color: black;
+    font-size: large;
+    font-weight: bold;
+}
+
+.fill-masthead {
+    padding-top: 0%!important;
+    padding-bottom: 0%!important;
+}
+
+.fill-slide-background {
+    margin-left: 0%!important;
+    margin-right: 0%!important;
+    padding-left: 0%!important;
+    padding-right: 0%!important;
+    max-width: 100%;
+}
+.carousel-item {
+    height: 100%;
+    min-height: 300px;
+    background: no-repeat center center scroll;
+    background-size: cover;
+}
+
+.footer {
+    background-color:#58508D!important;
+}
+
+.footer a {
+    color: white;
+}
+
+.footer p {
+    color: white!important;
+}
