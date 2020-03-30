@@ -44,3 +44,14 @@
 .footer p {
     color: white!important;
 }
+
+.label-text {
+    margin: 5%;
+    color: black; 
+    text-align: justify;
+}
+
+.label-text strong {
+    font-size: larger;
+    font-weight: bold;
+}
