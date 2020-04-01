@@ -55,3 +55,16 @@
     font-size: larger;
     font-weight: bold;
 }
+
+.features-icons-download {
+    padding-top: 3%;
+    padding-bottom: 2%;
+}
+
+.bg-download{
+    height: 100%;
+    background: no-repeat center center scroll;
+    background-image: url("./../img/bg_download.jpg");
+    background-color: #111111;
+    background-size: cover;
+}
